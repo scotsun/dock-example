@@ -1,6 +1,6 @@
 # docker-example
 
-to use a container on dcc, put this the slurm file (.q file)
+to use a container on dcc, put this in the slurm file (finally submit the job with `sbatch job.q`)
 
 ```slurm
 #!/bin/bash
